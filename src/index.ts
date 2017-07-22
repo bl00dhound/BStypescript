@@ -1,23 +1,25 @@
 import Fighter from "./Fighter"
+import IMatch from "./IMatch"
 import ImprovedFighter from "./ImprovedFighter"
 
-const fighter = new Fighter("Ordinary", 14, 8000)
-const improvedFighter = new ImprovedFighter("Improved", 14, 6000)
+const fighter: Fighter = new Fighter("Ordinary", 14, 8000)
+const improvedFighter: ImprovedFighter = new ImprovedFighter("Improved", 14, 6000)
+const fightOptions: IMatch = {first: fighter, second: improvedFighter, points: [4, 56, 23, 54, 8, 45]}
 
-function fight(first: Fighter, second: ImprovedFighter, ...point: number[]): void {
+function fight(match: IMatch) {
     let round: number = 0
 
-    while (first.getHealth() > 0 && second.getHealth() > 0) {
-        if (first.getHealth() > 0) {
-            Fighter.hit(second, point[getRandomNumber(point.length)])
+    while (match.first.getHealth() > 0 && match.second.getHealth() > 0) {
+        if (match.first.getHealth() > 0) {
+            Fighter.hit(match.second, match.points[getRandomNumber(match.points.length)])
         }
-        if (second.getHealth() > 0) {
-            ImprovedFighter.doubleHit(first, point[getRandomNumber(point.length)])
+        if (match.second.getHealth() > 0) {
+            ImprovedFighter.doubleHit(match.first, match.points[getRandomNumber(match.points.length)])
         }
         round++
     }
 
-    const winner: string = first.getHealth() > 0 ? first.getName() : second.getName()
+    const winner: string = match.first.getHealth() > 0 ? match.first.getName() : match.second.getName()
 
     console.log(`${winner} has won in ${round}th round.`)
 }
@@ -26,4 +28,4 @@ function getRandomNumber(max: number, min = 0): number {
     return Math.floor(Math.random() * (max - min)) + min
 }
 
-fight(fighter, improvedFighter, 4, 56, 23, 54, 8, 45)
+fight(fightOptions)

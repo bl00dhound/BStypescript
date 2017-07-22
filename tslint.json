@@ -6,10 +6,6 @@
     "jsRules": {},
     "rules": {
         "curly": [true, "ignore-same-line"],
-        "next-line": [true,
-            "check-catch",
-            "check-else"
-        ],
         "semicolon": [true, "never"],
         "no-in-operator": true,
         "no-null-keyword": true,

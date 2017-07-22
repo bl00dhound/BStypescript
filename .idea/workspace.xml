@@ -2,696 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f201631b-3daf-4d7d-80a7-295a5f5a9623" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/BStypescript.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Fighter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/tsc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/tslint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/ReadMe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/examples/safe-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/colors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/custom/trap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/custom/zalgo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/extendStringPrototype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/america.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/rainbow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/random.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/zebra.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/lib/system/supports-colors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/safe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/colors/themes/generic-logging.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/example/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/test/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/dist/diff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/dist/diff.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/convert/dmp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/convert/xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/character.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/sentence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/word.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/patch/apply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/patch/create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/patch/merge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/patch/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/util/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/util/distance-iterator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/util/params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/release-notes.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/esutils/LICENSE.BSD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/esutils/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/esutils/lib/ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/esutils/lib/code.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/esutils/lib/keyword.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/esutils/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/esutils/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/old.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/glob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/has-ansi/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/inflight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/inherits.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-tokens/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-tokens/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-tokens/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-tokens/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-tokens/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/minimatch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/once.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-parse/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-parse/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-parse/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-parse/index.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-parse/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-parse/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-parse/test.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/appveyor.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/example/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/example/sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/lib/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/lib/caller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/lib/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/lib/core.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/lib/node-modules-paths.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/lib/sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/dotdot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/dotdot/abc/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/dotdot/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/faulty_basedir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/filter_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/mock_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/module_dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/xmodules/aaa/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/ymodules/aaa/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/zmodules/bbb/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/node-modules-paths.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/node_path.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/node_path/x/aaa/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/node_path/x/ccc/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/node_path/y/bbb/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/node_path/y/ccc/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/nonstring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter/deep_ref/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/precedence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/precedence/bbb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/precedence/bbb/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/doom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/quux.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/cup.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/incorrect_main/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/incorrect_main/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/mug.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/mug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/other_path/lib/other-lib.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/other_path/root.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/quux/foo/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/same_names/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/same_names/foo/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver/without_basedir/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/resolver_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/resolve/test/subdirs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/bin/semver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/range.bnf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/semver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/supports-color/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/CopyrightNotice.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/docs/generator.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.es6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.es6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/bin/tslint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/configs/all.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/configs/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/configs/latest.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/configs/latest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/configs/recommended.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/configs/recommended.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/configuration.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/configuration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/enableDisableRules.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/enableDisableRules.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/error.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/error.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatterLoader.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatterLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/checkstyleFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/checkstyleFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/codeFrameFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/codeFrameFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/fileslistFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/fileslistFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/jsonFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/jsonFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/msbuildFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/msbuildFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/pmdFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/pmdFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/proseFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/proseFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/stylishFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/stylishFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/tapFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/tapFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/verboseFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/verboseFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/vsoFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/vsoFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/formatter/abstractFormatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/formatter/abstractFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/formatter/formatter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/formatter/formatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/abstractRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/abstractRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/optionallyTypedRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/optionallyTypedRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/rule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/rule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/typedRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/typedRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/utils.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/blockScopeAwareRuleWalker.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/blockScopeAwareRuleWalker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/programAwareRuleWalker.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/programAwareRuleWalker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/ruleWalker.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/ruleWalker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/scopeAwareRuleWalker.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/scopeAwareRuleWalker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/syntaxWalker.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/syntaxWalker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/walkContext.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/walkContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/walker.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/walker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/linter.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/linter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/ruleLoader.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/ruleLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/adjacentOverloadSignaturesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/adjacentOverloadSignaturesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/alignRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/alignRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrayTypeRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrayTypeRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrowParensRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrowParensRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrowReturnShorthandRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrowReturnShorthandRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/awaitPromiseRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/awaitPromiseRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banTypesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banTypesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/binaryExpressionOperandOrderRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/binaryExpressionOperandOrderRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/callableTypesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/callableTypesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/classNameRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/classNameRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/commentFormatRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/commentFormatRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completedDocsRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completedDocsRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/curlyRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/curlyRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/cyclomaticComplexityRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/cyclomaticComplexityRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/deprecationRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/deprecationRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/encodingRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/encodingRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/eoflineRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/eoflineRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/fileHeaderRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/fileHeaderRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/forinRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/forinRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/importBlacklistRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/importBlacklistRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/importSpacingRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/importSpacingRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/indentRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/indentRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/interfaceNameRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/interfaceNameRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/interfaceOverTypeLiteralRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/interfaceOverTypeLiteralRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/jsdocFormatRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/jsdocFormatRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/labelPositionRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/labelPositionRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/linebreakStyleRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/linebreakStyleRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/matchDefaultExportNameRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/matchDefaultExportNameRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxClassesPerFileRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxClassesPerFileRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxFileLineCountRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxFileLineCountRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxLineLengthRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxLineLengthRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/memberAccessRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/memberAccessRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/memberOrderingRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/memberOrderingRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newParensRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newParensRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newlineBeforeReturnRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newlineBeforeReturnRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAngleBracketTypeAssertionRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAngleBracketTypeAssertionRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAnyRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAnyRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noArgRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noArgRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noBitwiseRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noBitwiseRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noBooleanLiteralCompareRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noBooleanLiteralCompareRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConditionalAssignmentRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConditionalAssignmentRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConsecutiveBlankLinesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConsecutiveBlankLinesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConsoleRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConsoleRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConstructRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConstructRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDebuggerRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDebuggerRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDefaultExportRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDefaultExportRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateSuperRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateSuperRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateVariableRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateVariableRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEmptyInterfaceRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEmptyInterfaceRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEmptyRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEmptyRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEvalRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEvalRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noFloatingPromisesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noFloatingPromisesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noForInArrayRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noForInArrayRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noImportSideEffectRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noImportSideEffectRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInferrableTypesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInferrableTypesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInferredEmptyObjectTypeRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInferredEmptyObjectTypeRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInternalModuleRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInternalModuleRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInvalidTemplateStringsRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInvalidTemplateStringsRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInvalidThisRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInvalidThisRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noIrregularWhitespaceRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noIrregularWhitespaceRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMagicNumbersRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMagicNumbersRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMergeableNamespaceRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMergeableNamespaceRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMisusedNewRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMisusedNewRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNamespaceRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNamespaceRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNonNullAssertionRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNonNullAssertionRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNullKeywordRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNullKeywordRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noObjectLiteralTypeAssertionRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noObjectLiteralTypeAssertionRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noParameterPropertiesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noParameterPropertiesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReferenceImportRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReferenceImportRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReferenceRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReferenceRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noRequireImportsRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noRequireImportsRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noShadowedVariableRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noShadowedVariableRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSparseArraysRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSparseArraysRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noStringLiteralRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noStringLiteralRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noStringThrowRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noStringThrowRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSwitchCaseFallThroughRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSwitchCaseFallThroughRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noThisAssignmentRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noThisAssignmentRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noTrailingWhitespaceRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noTrailingWhitespaceRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnboundMethodRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnboundMethodRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryCallbackWrapperRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryCallbackWrapperRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryInitializerRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryInitializerRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryQualifierRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryQualifierRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryTypeAssertionRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryTypeAssertionRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnsafeAnyRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnsafeAnyRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnsafeFinallyRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnsafeFinallyRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnusedExpressionRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnusedExpressionRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnusedVariableRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnusedVariableRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUseBeforeDeclareRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUseBeforeDeclareRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVarKeywordRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVarKeywordRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVarRequiresRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVarRequiresRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVoidExpressionRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVoidExpressionRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/numberLiteralFormatRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/numberLiteralFormatRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralKeyQuotesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralKeyQuotesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralShorthandRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralShorthandRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralSortKeysRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralSortKeysRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/oneLineRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/oneLineRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/oneVariablePerDeclarationRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/oneVariablePerDeclarationRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/onlyArrowFunctionsRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/onlyArrowFunctionsRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/orderedImportsRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/orderedImportsRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferConditionalExpressionRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferConditionalExpressionRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferConstRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferConstRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferForOfRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferForOfRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferFunctionOverMethodRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferFunctionOverMethodRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferMethodSignatureRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferMethodSignatureRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferObjectSpreadRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferObjectSpreadRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferSwitchRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferSwitchRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferTemplateRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferTemplateRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/promiseFunctionAsyncRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/promiseFunctionAsyncRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/quotemarkRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/quotemarkRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/radixRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/radixRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/restrictPlusOperandsRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/restrictPlusOperandsRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/returnUndefinedRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/returnUndefinedRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/semicolonRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/semicolonRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/spaceBeforeFunctionParenRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/spaceBeforeFunctionParenRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictBooleanExpressionsRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictBooleanExpressionsRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictTypePredicatesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictTypePredicatesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/switchDefaultRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/switchDefaultRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/switchFinalBreakRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/switchFinalBreakRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/trailingCommaRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/trailingCommaRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/tripleEqualsRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/tripleEqualsRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typeLiteralDelimiterRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typeLiteralDelimiterRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typedefRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typedefRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typedefWhitespaceRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typedefWhitespaceRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typeofCompareRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typeofCompareRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unifiedSignaturesRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unifiedSignaturesRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/useDefaultTypeParameterRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/useDefaultTypeParameterRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/useIsnanRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/useIsnanRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/variableNameRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/variableNameRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/whitespaceRule.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/rules/whitespaceRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/runner.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/test.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/test/lines.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/test/lines.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/test/lintError.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/test/lintError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/test/parse.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/tslint-cli.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/tslint-cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/utils.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tslint/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/node.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/type.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/usage.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/util.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/.mailmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/AUTHORS.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/CopyrightNotice.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/ThirdPartyNoticeText.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/bin/tsc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/bin/tsserver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/cancellationToken.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.asynciterable.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/protocol.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/typescript/yarn.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/wrappy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Fighter.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ImprovedFighter.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tslint.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -709,9 +20,11 @@
       <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="292">
+              <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -719,41 +32,9 @@
       <file leaf-file-name="tslint.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tslint.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="72">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fighter.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Fighter.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImprovedFighter.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ImprovedFighter.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -761,8 +42,31 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -783,13 +87,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/index.ts" />
-        <option value="$PROJECT_DIR$/tsconfig.json" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/tslint.json" />
-        <option value="$PROJECT_DIR$/src/Fighter.ts" />
         <option value="$PROJECT_DIR$/src/ImprovedFighter.ts" />
+        <option value="$PROJECT_DIR$/src/Fighter.ts" />
+        <option value="$PROJECT_DIR$/src/index.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
       </list>
     </option>
   </component>
@@ -811,7 +115,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="43" />
-    <option name="y" value="-3" />
+    <option name="y" value="765" />
     <option name="width" value="1323" />
     <option name="height" value="771" />
   </component>
@@ -870,20 +174,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BStypescript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BStypescript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -904,7 +194,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -997,25 +287,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500659617726</updated>
-      <workItem from="1500659622876" duration="3626000" />
+      <workItem from="1500659622876" duration="7679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3626000" />
+    <option name="totallyTimeSpent" value="8842000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="-3" width="1323" height="771" extended-state="6" />
-    <editor active="true" />
+    <frame x="43" y="765" width="1323" height="771" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16820276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1024,6 +313,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1032,6 +322,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1059,10 +375,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.ts">
+    <entry file="file://$PROJECT_DIR$/dist/Fighter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/ImprovedFighter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1075,53 +407,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="292">
+          <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/ImprovedFighter.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="180">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Fighter.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        <state relative-caret-position="306">
+          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tslint.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="72">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ImprovedFighter.ts">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

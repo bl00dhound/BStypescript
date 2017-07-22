@@ -15,6 +15,14 @@ export default class Fighter {
         this.health = health
     }
 
+    public getName() {
+        return this.name
+    }
+
+    public getHealth() {
+        return this.health
+    }
+
     public setDamage(damage: number): void {
         this.health -= damage
         console.log(`${this.name} health: ${this.health}`)

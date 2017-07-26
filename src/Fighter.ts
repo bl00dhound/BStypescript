@@ -1,4 +1,6 @@
-export default class Fighter {
+import IFighter from "./IFighter"
+
+export default class Fighter implements IFighter {
 
     public static hit(enemy: Fighter, point: number): void {
         const damage: number = point * enemy.power
